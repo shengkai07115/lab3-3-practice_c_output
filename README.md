@@ -1,1 +1,0 @@
-# lab3-3-practice_c_output
